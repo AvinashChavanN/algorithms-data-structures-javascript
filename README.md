@@ -54,7 +54,7 @@ namespace WebApplication1.Controllers
     }
 }
 
-
+<!--
 @{
     ViewBag.Title = "Home Page";
 }
@@ -106,7 +106,7 @@ namespace WebApplication1.Controllers
     });
 </script>    
 }
-
+-->
 using System;
 using System.Collections.Generic;
 using System.Linq;
